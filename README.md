@@ -1,6 +1,6 @@
 # Web ChatGPT
 
-Create a web-based conversational bot powered by GPT. Based on Abhishek Thakur's [video](https://www.youtube.com/watch?v=T1hdz3eU3bg).
+Create a web-based conversational bot powered by GPT. Based on Abhishek Thakur's [video](https://www.youtube.com/watch?v=T1hdz3eU3bg). Windows users may need MSVC Build Tools.
 
 ## Instructions
 
