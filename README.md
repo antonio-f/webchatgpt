@@ -10,7 +10,7 @@ Create a Python environment including `scrapy`, `langchain`, `gradio`, `openai`,
 
 WARNING: you need an API key from OpenAI site (see https://platform.openai.com/account/api-keys). Once the key is generated:
 
-[Linux] copy it and type `export OPENAI_API_KEY=">>>INSERT_KEY_HERE<<<"` or
+[Linux] copy it and type `export OPENAI_API_KEY="`*INSERT_KEY_HERE*`"` or
 
 [Windows] add a new environment variable named  OPENAI_API_KEY and set the generated key as the value. 
 
