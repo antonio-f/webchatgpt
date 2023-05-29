@@ -4,7 +4,7 @@ Create a web-based conversational bot powered by GPT. Based on Abhishek Thakur's
 
 ## Instructions
 
-Create a Python environment including `scrapy`, `langchain`, `gradio`, `openai`, `chromadb`, `html2text`. Pip-install other possible missing dependencies.
+Create a Python environment including `scrapy`, `langchain`, `gradio`, `openai`, `chromadb`, `html2text`, `tiktoken`. Pip-install other possible missing dependencies.
 
 1) Run terminal. At `hfcrawl` dir level, type `scrapy crawl huggingface`. Go back one level to `webchatgpt` and type `python index.py`.
 
